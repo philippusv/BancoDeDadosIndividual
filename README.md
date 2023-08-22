@@ -1,11 +1,3 @@
-<!doctype html>
-<html>
-
-<head>
-    <meta charset="utf-8">
-    <title>Banco de Dados</title>
-</head>       
-
 <body>
 <h1 align="center">Trabalho de Banco de Dados Individual</h1>
 
