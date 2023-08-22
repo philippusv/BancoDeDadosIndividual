@@ -47,7 +47,7 @@
 <p>Consulta de Denunciantes na Delegacia Centro com CPF começando com "123"</p>
 <p>Retorna o nome e o endereço dos denunciantes que fizeram denúncias na "Delegacia Centro" e cujo CPF começa com "123", ordenados pelo nome do denunciante.</p>
 
-<img src="C:\vscode\ModeloConceitualBD.png" alt="Modelo Conceitual do Banco de Dados">
+<img src="C:\dev\BancoDeDadosIndividual\Imagens\ModeloConceitualBD.png" alt="Modelo Conceitual do Banco de Dados">
 
 </body>
 </html>
