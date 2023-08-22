@@ -1,11 +1,3 @@
-<!doctype html>
-<html>
-
-<head>
-    <meta charset="utf-8">
-    <title>Banco de Dados</title>
-</head>       
-
 <body>
 <h1 align="center">Trabalho de Banco de Dados Individual</h1>
 
@@ -47,7 +39,11 @@
 <p>Consulta de Denunciantes na Delegacia Centro com CPF começando com "123"</p>
 <p>Retorna o nome e o endereço dos denunciantes que fizeram denúncias na "Delegacia Centro" e cujo CPF começa com "123", ordenados pelo nome do denunciante.</p>
 
+<<<<<<< HEAD
 <img src="C:\dev\BancoDeDadosIndividual\Imagens\ModeloConceitualBD.png" alt="Modelo Conceitual do Banco de Dados">
+=======
+<img src="C:\dev\BancoDeDadosIndividual\ModeloConceitualBD.png" alt="Modelo Conceitual do Banco de Dados">
+>>>>>>> f49c375fb07fb2275299612b09a03ca53f41cfaf
 
 </body>
 </html>
